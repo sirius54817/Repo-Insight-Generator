@@ -62,8 +62,7 @@ cp .env.example .env
 Edit `.env` and add your API keys:
 ```env
 # Required: Get from https://makersuite.google.com/app/apikey
-GEMINI_API_KEY=AIzaSyDaZlI64SjY8Ta0IKD-r2sExulEEnCHBPk
-
+GEMINI_API_KEY=
 # Optional: GitHub token for higher rate limits
 GITHUB_TOKEN=your_github_token_here
 
